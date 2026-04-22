@@ -1,4 +1,4 @@
-## ⚠️ 
+## 
 
 # Dotfiles for Hyprland on Arch Linux
 
